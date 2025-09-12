@@ -1,2 +1,4 @@
-# Trabalho-do-Arnaldo-Siga
-Um trabalho escolar de Engenharia de software
+# SiMa Mobile
+O Sima é um app mobile de monitoramento academico,com uma interface que permite aos usuários acessarem dados relevantes de forma rápida e eficiente.
+
+
