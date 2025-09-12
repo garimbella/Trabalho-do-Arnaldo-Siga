@@ -2,49 +2,12 @@
 O Sima é um app mobile de monitoramento academico,com uma interface que permite aos usuários acessarem dados relevantes de forma rápida e eficiente.
 
 # Navegação Rápida
-[Histórias de Usuario](#Historia-de-Usuario)
+[Histórias de Usuario](#Histórias-de-Usuario)
 
+# Diagramas de Caso de Uso
 
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-11
-1
+# Diagramas de Sequencia
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Protótipo
 
 # Histórias de Usuario
