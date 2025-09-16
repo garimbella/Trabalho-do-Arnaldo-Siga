@@ -10,6 +10,7 @@ O Sima é um app mobile de gestão academico, com uma interface que permite aos 
 
 # Histórias de Usuario
 
+
 # Diagramas de Caso de Uso
 * Caso de Uso: Alunos
 <img width="496" height="673" alt="Image" src="https://github.com/user-attachments/assets/bd0f158d-12b8-4fba-92ef-3d46d9fa8a06" />
@@ -19,7 +20,10 @@ O Sima é um app mobile de gestão academico, com uma interface que permite aos 
 
 # Diagramas de Sequencia
 
+
 # Protótipo
+
+https://www.figma.com/proto/6B38xuZSYpVvjsyD8SWhpP/SiMA---Prot%C3%B3tipo?node-id=0-1&t=QEinYtB4Gsj76kTo-1
 
 # Autores
 * Gabriella Scattolin
