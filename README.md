@@ -20,7 +20,7 @@ notas para acompanhar meu desempenho.
 * Como aluno, quero solicitar o trancamento do curso pelo app caso eu precise interromper
 temporariamente meus estudos.
 
-*Como aluno, quero realizar minha rematrícula online para evitar filas e burocracia presencial.
+* Como aluno, quero realizar minha rematrícula online para evitar filas e burocracia presencial.
 
 * Como aluno, quero visualizar o calendário anual acadêmico para acompanhar datas de provas, feriados e eventos.
 
