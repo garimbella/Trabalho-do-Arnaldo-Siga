@@ -37,10 +37,13 @@ temporariamente meus estudos.
 
 * Como aluno, quero doar livros para a biblioteca para ajudar a comunidade acadêmica.
 
+* MAIS:[historias_de_usuario 1.pdf](https://github.com/user-attachments/files/22384241/historias_de_usuario.1.pdf)
+
+
 # Diagramas de Caso de Uso
+
 * Caso de Uso: Alunos
 <img width="496" height="673" alt="Image" src="https://github.com/user-attachments/assets/bd0f158d-12b8-4fba-92ef-3d46d9fa8a06" />
-
 
 # Diagramas de Sequencia
 
