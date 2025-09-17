@@ -1,4 +1,4 @@
-# SiMa Mobile
+# SiMa Mobile é esse
 O Sima é um app mobile de gestão academico, com uma interface que permite aos usuários acessarem dados relevantes de forma rápida e eficiente.
 
 # Navegação Rápida
