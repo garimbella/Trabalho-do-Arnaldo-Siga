@@ -44,8 +44,7 @@ temporariamente meus estudos.
 
 # Diagramas de Sequencia
 
-[diagramaSequencia (2).pdf](https://github.com/user-attachments/files/22384137/diagramaSequencia.2.pdf)
-
+<img width="1095" height="674" alt="Captura de tela 2025-09-17 084134" src="https://github.com/user-attachments/assets/a6f8cc76-439f-4295-ae70-a0f54df86312" />
 
 # Protótipo
 
