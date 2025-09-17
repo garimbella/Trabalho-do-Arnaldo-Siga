@@ -40,12 +40,12 @@ temporariamente meus estudos.
 * MAIS:[historias_de_usuario 1.pdf](https://github.com/user-attachments/files/22384241/historias_de_usuario.1.pdf)
 
 
-# Diagramas de Caso de Uso
+# Diagrama de Caso de Uso
 
 * Caso de Uso: Alunos
 <img width="496" height="673" alt="Image" src="https://github.com/user-attachments/assets/bd0f158d-12b8-4fba-92ef-3d46d9fa8a06" />
 
-# Diagramas de Sequencia
+# Diagrama de Sequencia
 
 <img width="1095" height="674" alt="Captura de tela 2025-09-17 084134" src="https://github.com/user-attachments/assets/a6f8cc76-439f-4295-ae70-a0f54df86312" />
 
